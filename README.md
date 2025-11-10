@@ -12,10 +12,6 @@ A full-stack dockerized web application for managing cricket player information.
 <img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/9bfa432f-1655-460b-b344-43d9494f4ac7" />
 
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Application+Interface" alt="Application Interface">
-</p>
-
 ## ✨ Features
 
 - 🚀 **Fully Dockerized** - Easy setup with Docker Compose
